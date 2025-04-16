@@ -1,6 +1,6 @@
 # 🔐 Login & Registration System (MERN Stack)
 
-This project is a basic **Login and Registration System** using **React.js + Redux** on the frontend and **Node.js + Express + MongoDB** on the backend. It features protected routes, JWT-based authentication, form validation, and local storage handling.
+This project is a basic **Login and Registration System** using **React.js + Redux** on the frontend and **Node.js + Express + MongoDB** on the backend. It features protected routes, JWT-based authentication, form validation, and cookies storage handling.
 
 ---
 
