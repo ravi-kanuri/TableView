@@ -7,7 +7,7 @@ This project is a basic **Login and Registration System** using **React.js + Red
 ## 📁 Project Structure
 
 ```
-project/
+TableView/
 ├── frontend/         # React Frontend
 └── backend/         # Node.js Backend
 ```
